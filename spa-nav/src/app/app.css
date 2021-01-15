@@ -1,0 +1,47 @@
+.container {
+    height: 60px;
+    margin: 0;
+    padding: 0 20px;
+    background: #000ff00f;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.logo {
+    height: 50px;
+    width: 50px;
+}
+
+.actions {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+
+.btn {
+    border: none;
+    box-shadow: 0px 1px 1px #e4e4e4;
+    border-radius: 5px;
+    height: 40px;
+    width: 40px;
+    color: white;
+    background-color: #6f6fe6;
+}
+
+.link {
+    border-radius: 10px;
+    height: 30px;
+    margin: 0 5px;
+    padding: 5px;
+    width: unset;
+    min-width: 100px;
+    text-align: center;
+    vertical-align: middle;
+    display: flex;
+    justify-content: center;
+    background: #7f97e5;
+    align-items: center;
+    color: white;
+    text-decoration: none;
+}

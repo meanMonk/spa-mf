@@ -1,0 +1,9 @@
+.role-container {
+    flex: 1;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 3rem;
+    color: #ffffff;
+    background: #885050 !important;
+}
